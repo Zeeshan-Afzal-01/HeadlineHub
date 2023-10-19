@@ -118,6 +118,10 @@ export default class News extends Component {
             </div>
           ))}
         </div>
+        <div className="credits">
+    
+          Designed by <a href="https://github.com/Zeeshan-Afzal-01">Zeeshan Afzal</a>
+  </div>
        
       </>
     );
